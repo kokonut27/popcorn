@@ -1,12 +1,14 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+function popcorn() {
   return (
     <main>
-      popcorn
+      <h1>popcorn</h1>
+      <br></br>
+      <button onclick="">Play now!</button>
     </main>
   );
 }
 
-export default App;
+export default popcorn;
