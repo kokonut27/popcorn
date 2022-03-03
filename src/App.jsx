@@ -12,6 +12,7 @@ function popcorn() {
     <main>
       <h1>popcorn</h1>
       <br></br>
+      {/*Reference: https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/*/}
       {/*<button onClick={sayHello}>Play now!</button>*/}
     </main>
   );
