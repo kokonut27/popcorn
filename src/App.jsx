@@ -1,5 +1,7 @@
 import React from 'react';
+import { NavLink } from "react-router-dom";
 import './App.css';
+
 
 function sayHello() {
   alert('You clicked me!');
@@ -10,7 +12,7 @@ function popcorn() {
     <main>
       <h1>popcorn</h1>
       <br></br>
-      <button onClick={sayHello}>Play now!</button>
+      {/*<button onClick={sayHello}>Play now!</button>*/}
     </main>
   );
 }
