@@ -10,7 +10,7 @@ function popcorn() {
     <main>
       <h1>popcorn</h1>
       <br></br>
-      <button onClick="{sayHello}">Play now!</button>
+      <button onClick={sayHello}>Play now!</button>
     </main>
   );
 }
